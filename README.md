@@ -1,7 +1,5 @@
 # ML-Classification-Customer-Churn-Prediction 🤖
 
-![Customer Churn](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/assets/101363399/a4ca31a7-db9c-4966-b6ae-59c780bfef9f)
-
 
 A telecom company (Vodafone) wants to find out the likelihood of a customer leaving the company. This project aims to build a classification model that predicts if a customer will churn or not.
 
@@ -27,9 +25,6 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 | Notebook                                     |             Published Article             |                                                                                                                                                          PowerBI Dashboard |
 | ---------------------------------------- | :---------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Customer Churn Classification Model](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/blob/main/Project_notebook.ipynb) | [Medium Article](https://medium.com/@obandoandrew8/machine-learning-for-classification-problems-customer-churn-prediction-ae46c574e60) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWE3MjUyZDQtOTQwMi00MzRiLTk0MGItOTY0MDkwYTExNWY5IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
-
-##  Some Tools Used For The Project :toolbox:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45"/>
@@ -194,7 +189,6 @@ The churn analytics predictive model is a data-driven solution designed to addre
 </table>
 
 ## Power BI Dashboard :tv:
-![Dashboard](https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction/assets/101363399/0eca9b50-f193-4d62-a18e-9a17703930e8)
 
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWE3MjUyZDQtOTQwMi00MzRiLTk0MGItOTY0MDkwYTExNWY5IiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9)
 
@@ -216,7 +210,7 @@ The churn analytics predictive model is a data-driven solution designed to addre
 
 You need to have [`Python 3`](https://www.python.org/) on your system. Then you can clone this repo and being at the repo's `root :: repository_name> ...`
 
-1. Clone this repository: `git clone https://github.com/Azie88/ML-Classification-Customer-Churn-Prediction`
+1. Clone this repository: (https://github.com/Piyushyadav10/Churn-Prediction.git)
 2. On your IDE, create A Virtual Environment and Install the required packages for the project:
 
 - Windows:
@@ -246,13 +240,6 @@ The two long command-lines have the same structure. They pipe multiple commands 
 4. Check out the Power BI dashboard for interactive visualizations.
 5. Read the published article for a comprehensive understanding of the project.
 
-## Author :writing_hand:
-
-Andrew Obando
-
-<a href="https://www.linkedin.com/in/andrewobando/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Andrew Obando | LinkedIn"/></a>
-<a href="https://medium.com/@obandoandrew8">
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 </a>
 
 ---
